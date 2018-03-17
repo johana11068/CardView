@@ -16,6 +16,7 @@
             android:orientation="vertical">
 
             <include layout="@layout/cardview_picture"/>
+            <include layout="@layout/cardview_picture"/>
 
         </LinearLayout>
     </ScrollView>
